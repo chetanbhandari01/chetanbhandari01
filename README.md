@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetan Bhandari</h1>
 <p>
-  👨‍💻 All of my projects are available at
+  My Portfolio Page 
   <a href="https://chetanbhandari.vercel.app" target="_blank">
     chetanbhandari.vercel.app
   </a>
