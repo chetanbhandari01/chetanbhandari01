@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Bhandari</h1>
 <p>
   My Portfolio Page 
-  <a href="https://chetanbhandari.vercel.app" target="_blank">
+  <a href="https://chetanbhandari01.vercel.app" target="_blank">
     chetanbhandari.vercel.app
   </a>
 </p>
